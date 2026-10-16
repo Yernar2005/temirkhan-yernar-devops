@@ -1,0 +1,5 @@
+Name: Yernar
+Surname: Temirkhan
+Group: IT2-2314
+Student ID: 37722
+Course: DevOps
