@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    image: temirkhan-yernar-devops
+    container_name: temirkhan-yernar-container
+    ports:
+      - "8081:8080"
+    environment:
+      STUDENT_NAME: Yernar
+      STUDENT_SURNAME: Temirkhan
+      STUDENT_GROUP: IT2-2314
+      STUDENT_ID: "37722"
