@@ -1,0 +1,7 @@
+
+.git
+logs/
+backup/
+.env
+private.txt
+public.txt
